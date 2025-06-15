@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🧠 Labs using Kali, Win7, Mint, Win11
+- 👣 Learning through HTB, THM, Cisco & SC-900
+
 
 <!---
 Yash6796/Yash6796 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
